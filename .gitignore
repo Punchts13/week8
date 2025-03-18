@@ -1,0 +1,10 @@
+### Django ###
+*. 10g
+*. pot
+*. рус
+__pycache__/
+local_settings.py
+
+• env
+venv/
+db. sqlite3
